@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on random useless projects.
+- 🔭 I’m currently working on random projects.
 
 
